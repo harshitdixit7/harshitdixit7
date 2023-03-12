@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Harshit Dixit
+<H1>Hi there! 👋 I'm Harshit Dixit</H1>
 
 I'm a Computer Science and Engineering student, currently on a journey to explore the vast world of programming and technology. I'm excited to learn new things and develop innovative solutions to real-world problems. 💻
 
