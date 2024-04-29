@@ -1,7 +1,7 @@
 <H1>Hi there! 👋 I'm Harshit Dixit</H1>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1058099366491082794/1084569031673135184/New_Project_1.jpg" alt="Github Banner Image" style="height: 320px;" "width:640" >
+  <img src="https://media.discordapp.net/attachments/1058099366491082794/1084566260169314424/image.png?ex=6630a4ca&is=662f534a&hm=db11071a1cfb86383650f321b390b9d25c7e9b4bd61b96bfe5ca6aa587d3eae9&=&format=webp&quality=lossless&width=800&height=400" alt="Github Banner Image" style="height: 320px;" "width:640" >
   
 </div>
 
